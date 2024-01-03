@@ -16,3 +16,7 @@
 .section {
     min-height: 100vh;
 }
+div.full-width{
+    width: 100%;   
+    flex: 1 1 100%;
+}
